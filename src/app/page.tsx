@@ -1,22 +1,9 @@
-
-
 import Image from "next/image";
 // import BlogIndex from "@/app/blog/index";
 import Hero from "@/app/component/hero";
 import Post from "@/app/component/Blog";
 
 
-
-export default function Home() {
-  return (
-    <div>
-      <Hero />
-      <Post />
-      {/* <BlogIndex /> */}
-     
-    </div>
-
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -127,6 +114,5 @@ export default function Home() {
         </a>
       </div>
     </main>
->>>>>>> 5e89d79 (Initial commit from Create Next App)
   );
 }
