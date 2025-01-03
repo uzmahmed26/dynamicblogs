@@ -8,9 +8,10 @@ export default function Contact() {
 
       {/* Decorative Background Elements */}
       <div className="absolute inset-0">
-        <div className="bg-gradient-to-r from-yellow-300 via-pink-300 to-indigo-300 opacity-15 rounded-full w-96 h-96 absolute -top-20 left-10 animate-pulse"></div>
-        <div className="bg-gradient-to-r from-teal-400 via-green-300 to-yellow-400 opacity-15 rounded-full w-72 h-72 absolute -bottom-28 right-16 animate-spin-slow"></div>
-      </div>
+  <div className="bg-gradient-to-r from-yellow-300 via-pink-300 to-indigo-300 opacity-15 rounded-full w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 absolute -top-10 left-5 animate-pulse"></div>
+  <div className="bg-gradient-to-r from-teal-400 via-green-300 to-yellow-400 opacity-15 rounded-full w-48 h-48 sm:w-60 sm:h-60 lg:w-72 lg:h-72 absolute -bottom-14 right-8 animate-spin-slow"></div>
+</div>
+
 
       {/* Content */}
       <div className="container mx-auto px-6 py-16 relative z-10 text-center">

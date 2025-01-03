@@ -82,7 +82,7 @@ const Post: React.FC = () => {
   }
 
   return (
-    <div className="bg-gradient-to-br from-blue-300 via-gray-100 to-gray-200 min-h-screen">
+    <div className="bg-gradient-to-br from-blue-300 via-gray-100 to-gray-200 min-h-screen py-24">
       <div className="flex flex-col justify-center items-center min-h-screen px-5">
         <div className="max-w-4xl w-full bg-white shadow-lg rounded-lg overflow-hidden">
           <div className="p-6">
