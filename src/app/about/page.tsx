@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="relative bg-gradient-to-tr from-white via-blue-100 to-teal-50 text-gray-900 min-h-screen flex flex-col items-center justify-center">
       {/* Content Container */}
-      <div className="relative z-10 container mx-auto px-6 sm:px-12 lg:px-20 py-16 text-center">
+      <div className="relative z-10 container mx-auto px-6 sm:px-12 lg:px-20 py-24 text-center">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           {/* Image Section */}
           <div className="relative w-72 h-72 sm:w-96 sm:h-96">

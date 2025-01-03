@@ -23,22 +23,22 @@ export default function Footer() {
             <h2 className="text-lg font-medium text-white mb-3">CATEGORIES</h2>
             <nav className="list-none space-y-2">
               <li>
-                <Link href="/web-development" className="text-gray-300 hover:text-yellow-400 transition">
+                <Link href="/blog" className="text-gray-300 hover:text-yellow-400 transition">
                   Web Development
                 </Link>
               </li>
               <li>
-                <Link href="/ai-ml" className="text-gray-300 hover:text-yellow-400 transition">
+                <Link href="/blog" className="text-gray-300 hover:text-yellow-400 transition">
                   AI & Machine Learning
                 </Link>
               </li>
               <li>
-                <Link href="/data-science" className="text-gray-300 hover:text-yellow-400 transition">
+                <Link href="/blog" className="text-gray-300 hover:text-yellow-400 transition">
                   Data Science
                 </Link>
               </li>
               <li>
-                <Link href="/cybersecurity" className="text-gray-300 hover:text-yellow-400 transition">
+                <Link href="/blog" className="text-gray-300 hover:text-yellow-400 transition">
                   Cybersecurity
                 </Link>
               </li>
